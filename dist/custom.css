@@ -1,0 +1,29 @@
+.reveal p,
+.reveal li {
+    font-size: 0.8em !important;
+}
+
+.reveal table {
+    font-size: 0.6em !important;
+}
+
+.reveal h3 {
+    border-bottom: 1px solid pink;
+}
+
+.reveal strong,
+.reveal th {
+    color: pink;
+}
+
+ul.exercice2 {
+    margin: 0;
+    width: 100%;
+}
+
+.exercice2 li {
+    list-style: none;
+
+    display: flex;
+    align-items: center;
+}
